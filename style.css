@@ -1,0 +1,33 @@
+body{
+  margin: 0px;
+}
+a{
+  text-decoration: none;
+}
+.logoimage{
+  height: 60px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  
+}
+.logotext{
+  text-align: center;
+  margin: 10px 0px 1px 0px;
+  color: #000000;
+  padding-bottom: 15px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.branddiv{
+  border: 0.0000000001px solid rgb(0, 0, 0);
+  width: 84px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #000000;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.allbranddiv{
+  display: inline-flex;
+}
+  

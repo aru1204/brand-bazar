@@ -55,9 +55,10 @@ a{
 }
 .allbranddiv{
   display: inline-flex;
-  
 }
-
+.allboxes{
+  margin-top: 25px;
+}
 /* brand container css end*/
 
 
@@ -175,6 +176,7 @@ a{
 
 .copyrighttext{
   font-size: 12px;
-  margin-top: 30px;
+  padding-top: 30px;
   text-align: center;
+  font-family: 'Inter', sans-serif;;
 }

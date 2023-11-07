@@ -14,7 +14,7 @@ a{
   text-align: center;
   background-color: rgb(0, 0, 0);
   height: 80px;
-  border-radius: 10px;
+  border-radius: 0px 0px 10px 10px;
 }
 .navigation{
   text-align: center;
@@ -180,7 +180,7 @@ a{
 /* fotter area div start*/
 .footerarea{
 background-color: #000000;
-border-radius: 10px;
+border-radius: 10px 10px 0px 0px;
 margin-bottom: 0px;
 }
 .copyrighttext{

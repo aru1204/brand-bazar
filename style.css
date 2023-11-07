@@ -179,11 +179,17 @@ a{
 
 
 
-
-
+/* fotter area div start*/
+.footerarea{
+background-color: #000000;
+}
 .copyrighttext{
   font-size: 12px;
-  padding-top: 30px;
+  padding-top: 10px;
   text-align: center;
   font-family: 'Play', sans-serif;
+  margin-bottom: 0px;
+  color: white;
+  padding-bottom: 10px;
 }
+/* fotter area div end*/

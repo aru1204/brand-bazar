@@ -88,7 +88,7 @@ a{
   margin-right: 10px;
   margin-top: 25px;
   background-color: white;
-  height: 150px;
+  height: 185px;
 }
 .catimage{
   height: 60px;
@@ -102,7 +102,10 @@ a{
   font-weight: 400;
   font-family: 'Play', sans-serif;
   margin-top: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+.catbrand{
+  margin-left: 13px;
 }
 .catmorebtn{
   text-align: center;
@@ -117,7 +120,10 @@ a{
 }
 .morep{
   color: white;
+  font-weight: 550;
+  font-family: 'Play', sans-serif;
 }
+
 
 
 
